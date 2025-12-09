@@ -1,0 +1,7 @@
+# .gitignore
+# Chrome Extension files to ignore
+*.crx
+*.pem
+
+# Log files
+*.log
